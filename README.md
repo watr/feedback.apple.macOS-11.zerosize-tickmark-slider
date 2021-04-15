@@ -1,6 +1,6 @@
 # NSSlider's customized tick mark rect size is ignored in macOS 11
 
-## Speps to reproduce
+## Steps to reproduce
 
 in macOS 11 Big Sur
 
@@ -16,7 +16,7 @@ If 'Tick Mark Size ZERO' check is ON, NO tick marks on slider.
 
 ### Actual result
 
-All tick marks always exsist on slider, regardless of 'Tick Mark Size ZERO' check status.
+All tick marks always exist on slider, regardless of 'Tick Mark Size ZERO' check status.
 
 ![macOS 11 result](./screenshots/macOS_11.png)
 
